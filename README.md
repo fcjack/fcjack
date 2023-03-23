@@ -5,7 +5,7 @@ I'm Jackson, and I'm Brazilian based in Berlin, Germany.
 Currently working as Senior Software Engineer @Grafana, previously worked as SRE/Tech Lead @Lykon, I also worked as Backend Engineer @N26 and @Klarna,
 mainly focused on improve team performance, developer experience and good practices inside the teams that I worked.
 
-I enjoy distributed systesm, solving complex problems, improve teams performance and experience with different tools and automation.
+I enjoy distributed systems, solving complex problems, improve teams performance and experience with different tools and automation.
 Thinking about automation, yeah I don't like manual work much, 😄!
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fcjack)
