@@ -15,7 +15,7 @@ Thinking about automation, yeah I don't like manual work much, 😄!
 - 💬 Ask me about Distributed Systems, Developer Experience, Football or Movies!
 - 📫 How to reach me: @fcjack
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play D&D and eletronic gaming in general
+- ⚡ Fun fact: I play D&D and love videogames
 
 <!--
 **fcjack/fcjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
